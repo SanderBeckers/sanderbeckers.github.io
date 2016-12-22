@@ -1,4 +1,4 @@
-## Welcome to the personal webpage of Sander Beckers
+## Welcome to the personal webpage of Sander Beckers!
 
 You can use the [editor on GitHub](https://github.com/SanderBeckers/sanderbeckers.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
